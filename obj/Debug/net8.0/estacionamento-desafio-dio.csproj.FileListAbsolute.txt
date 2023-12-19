@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-desafio-dio\bin\Debug\net8.0\estacionamento-desafio-dio.exe
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-desafio-dio\bin\Debug\net8.0\estacionamento-desafio-dio.deps.json
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-desafio-dio\bin\Debug\net8.0\estacionamento-desafio-dio.runtimeconfig.json
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-desafio-dio\bin\Debug\net8.0\estacionamento-desafio-dio.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-desafio-dio\bin\Debug\net8.0\estacionamento-desafio-dio.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-desafio-dio\obj\Debug\net8.0\estacionamento-desafio-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-desafio-dio\obj\Debug\net8.0\estacionamento-desafio-dio.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-desafio-dio\obj\Debug\net8.0\estacionamento-desafio-dio.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-desafio-dio\obj\Debug\net8.0\estacionamento-desafio-dio.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-desafio-dio\obj\Debug\net8.0\estacionamento-desafio-dio.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-desafio-dio\obj\Debug\net8.0\refint\estacionamento-desafio-dio.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-desafio-dio\obj\Debug\net8.0\estacionamento-desafio-dio.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-desafio-dio\obj\Debug\net8.0\estacionamento-desafio-dio.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-desafio-dio\obj\Debug\net8.0\ref\estacionamento-desafio-dio.dll
